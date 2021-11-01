@@ -7,7 +7,7 @@ Escrita em MATLAB.
 
 Exemplo da aplicação em funcionamento:
 
-<img src="https://github.com/CAMonteiroFH/https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/example.gif"/>
+<img src="https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/example.gif"/>
 
 
 
