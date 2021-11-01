@@ -4,3 +4,7 @@ Pequena aplicação com interface gráfica para cálculo dos coeficientes de Fou
 Escrita em MATLAB, com propósitos puramente educacionais.
 
 ![alt text](https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/fourier.jpg)
+
+Exemplo da aplicação em funcionamento:
+
+![alt text](https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/example.gif)
