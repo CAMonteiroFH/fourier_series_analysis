@@ -1,8 +1,9 @@
 # Fourier_Series_Analysis
-
+<html> 
 <p style="color:blue;font-size:18px;">Uma simples aplicação estudantil com interface gráfica para cálculo dos coeficientes de Fourier de um sinal periódico.
 Escrita em MATLAB.</p>   
-
+</html> 
+  
 <img src="https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/ui.png" width="800" height="600" class="center"/>
 
 Exemplo da aplicação em funcionamento:
