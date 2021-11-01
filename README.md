@@ -6,7 +6,7 @@ Escrita em MATLAB.</font>
 <br />
 <br />
 
-<p align="center"> <img src="https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/analysis.jpg"/></p>
+<p align="center"> <img src="https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/analysis.jpg"/ width="600" height=auto></p>
 <br />
 <br />
 
@@ -15,7 +15,7 @@ Exemplo da aplicação em funcionamento:
 <br />
 <br />
 
-<p align="center"> <img src="https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/ui.png" width="800" height="600" class="center"/></p>
+<p align="center"> <img src="https://github.com/CAMonteiroFH/fourier_series_analysis/blob/main/images/ui.png" width="800" height="600"/></p>
 
 <br />
 <br />
