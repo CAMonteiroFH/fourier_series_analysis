@@ -24,7 +24,7 @@ A teoria de sinais diz que qualquer sinal periódico pode ser representando com 
 - **Cálculo dos coeficientes de Fourier**: Calcula N coeficientes da série de Fourier de um sinal;
 - **Valor Médio(Componente DC)**: Calcula a componente DC de um sinal;
 - **Gráfico Sinal Original**: Plota o gráfico do sinal colocado como entrada da aplicação;
-- **Gráfico Sinal Reconstruído**: Plota o gráfico do sinal reconstruído via série de Fouerir com N coeficientes;
+- **Gráfico Sinal Reconstruído**: Plota o gráfico do sinal reconstruído via série de Fourier com N coeficientes;
 - **Espectro de Amplitude**: Espectro de amplitude do sinal reconstruído com N coeficientes;
 - **Espectro de Fase**: Espectro de fase do sinal reconstruído com N coeficientes;
 - **Exibir Tabela com Coeficientes**: Tabela com os N coeficientes da Série de Fourier;
